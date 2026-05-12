@@ -4,8 +4,7 @@ A mobile surf game built for Honolulu · Oʻahu.
 
 ## Play
 
-- **Classic Mode** — Ride the barrel across 7 waves. Stay in the pocket, outrun the foamball, don't get swallowed by the lip.
-- **Obstacle Mode** — Everything in Classic, plus kooks, sea turtles, jellyfish, and sharks coming at you inside the barrel. 3 lives per wave.
+- **Classic Mode** — Ride the barrel across 7 waves. Stay in the pocket, outrun the foamball, don't get swallowed by the lip. Avoid obstacles like kooks, sea turtles, jellyfish, and sharks coming at you inside the barrel. 3 lives per wave.
 
 **Controls:** Drag up/down anywhere on screen to move your surfer.
 
@@ -20,6 +19,4 @@ Purely static HTML — no build step, no dependencies (besides a Google Fonts CD
 
 | File | Description |
 |------|-------------|
-| `index.html` | Classic barrel mode |
-| `obstacles.html` | Obstacle dodge mode |
-| `menu.html` | Mode select landing page |
+| `index.html` | barrel obstacle mode |
